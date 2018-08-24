@@ -1,7 +1,7 @@
 import os
 
 
-database_name = 'GeoLite2-City.mmdb'
+database_name = 'GeoLite2-Country.mmdb'
 
 
 def geolite2_database():
